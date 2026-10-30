@@ -1,16 +1,31 @@
-## Hi there 👋
+# Marvin Schulte
 
-<!--
-**mrvnschulte/mrvnschulte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a mathematician and PhD candidate at RPTU Kaiserslautern-Landau and
+Fraunhofer ITWM. My work focuses on applied mathematics, mathematical
+epidemiology, dynamical systems, and optimization.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mathematical epidemiology and infectious-disease modelling
+- Ordinary and partial differential equations
+- Dynamical systems and long-term behaviour
+- Optimal control and optimization under uncertainty
+- Numerical analysis and scientific computing
+
+## Current work
+
+In my doctoral research, I study coupled transmission-mutation models. My aims
+are to characterize their long-term behaviour and derive optimal vaccination
+strategies under uncertainty in viral evolution.
+
+## Technical interests
+
+- Python for scientific computing and numerical simulation
+- C++ development
+- Reproducible research software and model documentation
+
+## Other projects
+
+My previous and ongoing work includes wastewater-based epidemiology, adaptive
+behaviour in epidemic models, multi-objective optimization, and error analysis
+for robot-assisted surgical systems.
